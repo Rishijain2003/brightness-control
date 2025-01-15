@@ -38,8 +38,7 @@ This project demonstrates a computer vision application that controls the screen
 - NumPy
 - Screen Brightness Control
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 ## Acknowledgments
 - [MediaPipe](https://mediapipe.dev) for providing the hand tracking solution.
